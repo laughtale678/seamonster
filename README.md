@@ -1,6 +1,6 @@
 # WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: Rui Lu
+Submitted by: laughtale678
 
 ea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2024] [Rui Lu]
+    Copyright [2024] [laughtale678]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
